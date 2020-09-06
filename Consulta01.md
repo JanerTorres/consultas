@@ -69,6 +69,12 @@ Básicamente, Git funciona del siguiente modo:
 
 Imagen tomada de [aqui.](https://www.syloper.com/blog/desarrollo/versionando-codigo-con-git/)
 
+### Guías de Instalación
+
+[Windows.](https://git-scm.com/download/win)  
+[Linux/Unix.](https://git-scm.com/download/linux) (Aunque generalmente viene preinstalado)  
+[Mac OS X.](https://git-scm.com/download/mac)  
+
 ## Comandos Básicos
 
 > "Añadir" se refiere a agregar archivos al *Staging Area* de git, es decir que git ya le estaría haciendo seguimiento a los cambios en dichos archivos
